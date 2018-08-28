@@ -4,7 +4,7 @@ library ( dplyr )
 
 # nostro codice che crea data frame da csv
 
-# modifica armando
+# modifica armando e paolo.
 
 
 # palesemente di cri
