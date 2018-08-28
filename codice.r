@@ -11,3 +11,4 @@
 
 # palesemente di cri
 
+# grazie a tutti. abbiamo finito. ci sono domande?
